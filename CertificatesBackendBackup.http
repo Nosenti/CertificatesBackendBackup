@@ -1,0 +1,6 @@
+@CertificatesBackendBackup_HostAddress = http://localhost:5120
+
+GET {{CertificatesBackendBackup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
